@@ -1,0 +1,117 @@
+# **EMPLOYMENT AGREEMENT**
+
+This EMPLOYMENT AGREEMENT (the "Agreement") is entered into and made effective as of September 25, 2026 (the "Effective Date"), by and between:
+
+**EMPLOYER:** **TechCorp Inc.**, a corporation organized and existing under the laws of the State of California, having its principal place of business at 100 Innovation Way, California ("Employer"); and
+
+**EMPLOYEE:** **Jane Smith**, an individual residing at 45 Residence Ave, California ("Employee").
+
+Employer and Employee may collectively be referred to herein as the "Parties," and individually as a "Party."
+
+---
+
+### **RECITALS**
+
+**WHEREAS**, Employer is engaged in the business of technology development and related services and desires to retain the services of Employee to perform duties in furtherance of Employer's business operations; and
+
+**WHEREAS**, Employee desires to accept employment with Employer upon the terms, conditions, and covenants hereinafter set forth;
+
+**NOW, THEREFORE**, in consideration of the mutual covenants and promises herein contained, and for other good and valuable consideration, the receipt and legal sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+---
+
+### **1. EMPLOYMENT AND DUTIES**
+
+1.1. **Position.** Employer hereby employs Employee, and Employee hereby accepts employment with Employer, in the capacity of a full-time professional employee. 
+
+1.2. **Duties and Responsibilities.** Employee shall perform all duties, services, and responsibilities customary to such position and those reasonably assigned by Employer from time to time. Employee agrees to devote their full working time, attention, skill, and best efforts to the business and affairs of Employer.
+
+1.3. **Standard of Conduct.** Employee agrees to comply with all rules, policies, manuals, standards, and practices established by Employer, as well as all applicable federal, state, and local laws and regulations.
+
+---
+
+### **2. TERM AND PROBATIONARY PERIOD**
+
+2.1. **Commencement.** The term of employment shall commence on the Effective Date (September 25, 2026) and shall continue until terminated in accordance with the provisions of this Agreement.
+
+2.2. **Probationary Period.** Employee shall be subject to an initial probationary period of ninety (90) calendar days commencing on the Effective Date (the "Probationary Period"). The Probationary Period allows Employer to assess Employee’s suitability, skills, and performance. During the Probationary Period, either Party may terminate this Agreement at any time, with or without cause, and with or without advance notice, subject to applicable law. Completion of the Probationary Period shall not alter the at-will nature of the employment relationship.
+
+---
+
+### **3. COMPENSATION AND BENEFITS**
+
+3.1. **Base Salary.** In consideration of the services rendered by Employee under this Agreement, Employer shall pay Employee an annualized base salary of One Hundred Thirty Thousand Dollars ($130,000.00 USD), payable in regular installments in accordance with Employer's standard payroll practices and subject to all applicable tax withholdings and deductions required by law.
+
+3.2. **Benefits.** Employee shall be eligible to participate in such health, welfare, retirement, and fringe benefit programs as Employer may offer from time to time to similarly situated employees, subject to the terms, conditions, and eligibility requirements of the respective benefit plans.
+
+3.3. **Business Expenses.** Employer shall reimburse Employee for all reasonable, necessary, and documented business expenses incurred by Employee directly in connection with the performance of Employee’s duties, subject to Employer’s expense reimbursement policies.
+
+---
+
+### **4. TERMINATION**
+
+4.1. **At-Will Employment.** The employment relationship established by this Agreement is "at-will." Both Employee and Employer retain the right to terminate the employment relationship at any time, with or without cause, and with or without advance notice, subject only to the express terms of this Agreement and applicable law.
+
+4.2. **Termination for Cause.** Employer may terminate Employee’s employment immediately for "Cause" upon written notice. "Cause" shall include, but not be limited to: (a) gross negligence or willful misconduct in the performance of duties; (b) material breach of this Agreement; (c) commission of an act of fraud, embezzlement, or felony; or (d) unauthorized disclosure of Proprietary Information.
+
+4.3. **Termination Without Cause / Resignation.** Either Party may terminate this Agreement without Cause upon providing two (2) weeks' prior written notice to the other Party, which notice period Employer may, in its sole discretion, waive by providing pay in lieu thereof.
+
+4.4. **Effect of Termination.** Upon termination of employment for any reason, Employee shall be entitled solely to: (a) payment of all earned but unpaid base salary through the date of termination; (b) payment for any accrued, unused paid time off, as required by California law; and (c) statutory continuation of benefits under COBRA or applicable state law.
+
+---
+
+### **5. CONFIDENTIALITY AND PROPRIETARY INFORMATION**
+
+5.1. **Confidential Information Defined.** "Confidential Information" means all non-public, confidential, or proprietary information, including but not limited to trade secrets, technical data, software, algorithms, designs, customer lists, business strategies, pricing policies, financial records, and operational methods disclosed to or learned by Employee during employment.
+
+5.2. **Duty of Non-Disclosure.** Employee agrees to hold all Confidential Information in strict trust and confidence and shall not, directly or indirectly, disclose, duplicate, copy, or use any Confidential Information for Employee's own benefit or for the benefit of any third party, during or after the term of employment, without the express prior written consent of Employer.
+
+5.3. **Return of Property.** Upon termination of employment, or at any time upon Employer’s demand, Employee shall promptly deliver to Employer all property, documents, hardware, software, records, and files belonging to Employer or containing Confidential Information.
+
+---
+
+### **6. INTELLECTUAL PROPERTY**
+
+6.1. **Work Made for Hire.** Employee acknowledges and agrees that all works of authorship, inventions, discoveries, developments, improvements, trade secrets, software, and designs (collectively, "Inventions") created, conceived, or reduced to practice by Employee, either alone or with others, during the course of employment and related to Employer's business, shall be deemed a "work made for hire" under the United States Copyright Act.
+
+6.2. **Assignment.** To the extent any such Inventions may not be deemed a work made for hire, Employee hereby irrevocably assigns, transfers, and conveys to Employer all right, title, and interest worldwide in and to such Inventions. This provision does not apply to any invention that qualifies fully under Section 2870 of the California Labor Code.
+
+---
+
+### **7. GOVERNING LAW AND SEVERABILITY**
+
+7.1. **Governing Law.** This Agreement shall be construed, interpreted, and governed in accordance with the laws of the State of California, without regard to its conflict of law principles.
+
+7.2. **Severability.** If any provision of this Agreement is held to be invalid, illegal, or unenforceable by a court of competent jurisdiction, the remaining provisions of this Agreement shall remain in full force and effect.
+
+---
+
+### **8. MISCELLANEOUS**
+
+8.1. **Entire Agreement.** This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements, representations, understandings, and negotiations, whether oral or written.
+
+8.2. **Amendments.** No amendment, modification, or waiver of any provision of this Agreement shall be effective unless made in writing and executed by both Parties.
+
+8.3. **Counterparts.** This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. Electronic or facsimile signatures shall be treated as original signatures for all purposes.
+
+---
+
+**IN WITNESS WHEREOF**, the Parties hereto have duly executed and delivered this Employment Agreement as of the Effective Date first written above.
+
+<br>
+
+**EMPLOYER:**  
+**TechCorp Inc.**
+
+By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+Title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+
+<br>
+
+**EMPLOYEE:**  
+**Jane Smith**
+
+Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
